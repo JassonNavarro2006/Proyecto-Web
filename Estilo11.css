@@ -1,0 +1,25 @@
+﻿h1 {
+    font-family: "Tahoma";
+    position: static;
+    text-align: center;
+    border: #663366 10px;
+    margin: 0px;
+    color: #000;
+}
+
+img {
+    position: static;
+    width: 280px;
+    height: 275px;
+}
+
+.linea {
+    width: 1155px;
+    height: 2px;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: Montserrat Alternates, sans-serif;
+}
+
